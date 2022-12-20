@@ -1,0 +1,5 @@
+usr/lib/*/libKF5Tnef.so.5
+usr/lib/*/libKF5Tnef.so.5.*
+usr/share/locale/
+usr/share/qlogging-categories5/ktnef.categories
+usr/share/qlogging-categories5/ktnef.renamecategories
